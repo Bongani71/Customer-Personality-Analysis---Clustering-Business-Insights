@@ -89,6 +89,7 @@ This group is more likely to respond to:
 ```
 ├── README.md
 ├── Customer_Personality_Analysis.ipynb
+├── Customer Personality Analysis Plan.png
 └── data/
     └── marketing_campaign.csv
 ```
